@@ -1,0 +1,6 @@
+cmd - g : yabai -m window --toggle zoom-fullscreen
+
+ctrl + alt - left : yabai -m window --swap west
+ctrl + alt - down : yabai -m window --swap south
+ctrl + alt - up : yabai -m window --swap north
+ctrl + alt - right : yabai -m window --swap east
